@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: pranaykashyap.github.io
+Token: d4c27d92137c8aa1d5e7b09eb1e6065b57a2fc0213ddaae2422573d9ec869be1
